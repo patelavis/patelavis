@@ -1,6 +1,3 @@
-# 💫 About Me:
-Experienced ML Engineer with a background in Electrical Engineering, proficient in <br>Python, SQL, No-SQL, and various data cleaning, wrangling, and mining strategies. Skilled <br>in creating ML models for regression, classification, image processing, ANN, NLP, and time <br>series analysis, as well as working with databases and cloud platforms. Collaborative <br>team player with excellent problem-solving skills and effective communication.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patelavis/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:patelavish99@gmail.com) 
