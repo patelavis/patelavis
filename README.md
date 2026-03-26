@@ -26,14 +26,4 @@
 
 **Soft Skills:** ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-Skill-4C72B0?logo=databricks&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Skill-55A868?logo=leetcode&logoColor=white) ![Communication](https://img.shields.io/badge/Communication-Skill-DA8BC3?logo=wechat&logoColor=white) ![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-Skill-8172B2?logo=slack&logoColor=white) ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-Skill-76B7B2?logo=tableau&logoColor=white) ![Adaptability](https://img.shields.io/badge/Adaptability-Skill-F28E2B?logo=target&logoColor=white)
 
----
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=patelavis&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=patelavis&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=patelavis&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=patelavis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
